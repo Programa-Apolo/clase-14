@@ -20,7 +20,7 @@ texto contexto histórico
 
 
 #### Apolo 11
->**Ruta del viaje=** Aquí explicaremos el viaje del Apolo 11
+>**Ruta del viaje=** Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelta a la Tierra. En esta ruta se incluirá la explicación de las partes de la nave Saturno 11 a medida que se ivan separando del Apollo 11.
 ![Apolo 11](https://raw.githubusercontent.com/Programa-Apolo/clase-14/main/img/Ruta.jpg)
 
 
