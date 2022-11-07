@@ -42,7 +42,7 @@ Todas las fotografías mostradas en este README serán en realidad ilustraciones
 ### La tripulación
 ![Tripulación](https://raw.githubusercontent.com/Programa-Apolo/clase-14/f8be0580cfa3e5bdf8ee7e0e9a6321806f7200e6/svg/Tripulacion_cantidad.svg)
 ![Perfiles](https://github.com/Programa-Apolo/clase-14/blob/main/img/perfiles.jpg?raw=true)
-texto sobre como una gran parte de la tripulación participó en los programas anteriores de la NASA, así mismo como algunos de ellos viajaron en más de una misión Apolo
+texto sobre como una gran parte de la tripulación participó en los programas anteriores de la NASA, así mismo como algunos de ellos viajaron en más de una misión Apolo, destacando a los más importantes a través de perfiles con un poco más de información detallada acerca de su experiencia
 
 
 ---
