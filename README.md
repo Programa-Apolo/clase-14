@@ -28,9 +28,11 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 #### Apolo 13-17
 **Hitos más importantes por destacar**
 - Apolo 13 (viaje fallido)
+![Apolo 13](https://github.com/Programa-Apolo/clase-14/blob/main/img/Apolo%2013.jpeg?raw=true)
 - Apolo 15 ("auto)
 ![Apolo 15](https://github.com/Programa-Apolo/clase-14/blob/main/img/idea%201.png?raw=true)
 - Apolo 17 (avances cientificos)
+![Apolo 17](https://github.com/Programa-Apolo/clase-14/blob/main/img/Piedras.jpeg?raw=true)
 
 ---
 
@@ -53,6 +55,8 @@ texto fin carrera espacial
 ---
 
 texto final
+
+---
 
 ###Extra
 Empezamos a hacer una tabla con la  información de la tripulación para organizar cual dejar 
