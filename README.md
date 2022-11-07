@@ -2,14 +2,15 @@
 # PROGRAMA APOLO: inicio a fin
 
 
-texto introductorio
+Carrera espacial
+La carrera espacial fue una disputa entre Estados Unidos y la Unión Soviética por la conquista del espacio. Este conflicto duró aproximadamente desde el año 1955 hasta 1975. Supuso el esfuerzo paralelo de ambos países por explorar el espacio exterior con satélites artificiales y enviar humanos al espacio y a la superficie lunar.
+
 
 ---
 
 
 ![Discurso Presidente John F.Kennedy](https://github.com/Programa-Apolo/clase-14/blob/main/img/Kennedy.jpg?raw=true)
-texto contexto histórico
-
+El inicio de la carrera espacial se hizo efectivo con el lanzamiento soviético del primer satélite, Sputnik 1. Frente a esta desventaja, Estados Unidos aplicó medidas inmediatas. El 25 de mayo de 1961, el presidente John F. Kennedy anunció el objetivo de enviar un hombre a la luna, y traerlo de vuelta a salvo antes de que finalice la década.
 
 ---
 
