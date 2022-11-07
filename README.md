@@ -2,7 +2,7 @@
 # PROGRAMA APOLO: inicio a fin
 
 
-texo introductorio
+texto introductorio
 
 ---
 
