@@ -26,10 +26,11 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 
 
 #### Apolo 13-17
-**Hitos por destacar**
-
+**Hitos más importantes por destacar**
+- Apolo 13 (viaje fallido)
+- Apolo 15 ("auto)
 ![Apolo 15](https://github.com/Programa-Apolo/clase-14/blob/main/img/idea%201.png?raw=true)
-*Aquí explicaremos lo que se destaca del apolo 15 (uso del "auto")*
+- Apolo 17 (avances cientificos)
 
 ---
 
