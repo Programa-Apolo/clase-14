@@ -1,7 +1,10 @@
 > imagen/ilustración espacio
 # PROGRAMA APOLO: inicio a fin
+
+
 texo introductorio
 
+---
 ![Discurso Presidente John F.Kennedy](https://github.com/Programa-Apolo/clase-14/blob/main/img/Kennedy.jpg?raw=true)
 texto contexto histórico
 
@@ -29,10 +32,9 @@ texto
 
 ### Fin del Apolo
 ![Apollo Soyuz](https://github.com/Programa-Apolo/clase-14/blob/main/img/soyuz.jpg?raw=true)
-*Gráfico figurativo (ilustración) de la tripulación Rusa-Americana*
 
 texto fin carrera espacial
 
-
+---
 
 texto final
