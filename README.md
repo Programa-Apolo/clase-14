@@ -27,6 +27,8 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 
 #### Apolo 13-17
 **Hitos más importantes por destacar**
+Todas las fotografías mostradas en este README serán en realidad ilustraciones
+
 - Apolo 13 (viaje fallido)
 ![Apolo 13](https://github.com/Programa-Apolo/clase-14/blob/main/img/Apolo%2013.jpeg?raw=true)
 - Apolo 15 ("auto")
