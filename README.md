@@ -21,6 +21,7 @@ texto contexto histórico
 
 #### Apolo 11
 >**Ruta del viaje=** Aquí explicaremos el viaje del Apolo 11
+![Apolo 11](https://raw.githubusercontent.com/Programa-Apolo/clase-14/main/img/Ruta.jpg)
 
 
 #### Apolo 13-17
