@@ -17,11 +17,13 @@ texto contexto histórico
 ### Misiones Apolo
 #### Apolo 1-10
 >Gráfico linea temporal
-Aqui explicaremos hasta donde llego cada mision antes del Apolo 11
+>Aqui explicaremos hasta donde llego cada mision antes del Apolo 11
+
 
 #### Apolo 11
 >Ruta del viaje
-Aquí explicaremos el viaje del Apolo 11
+>Aquí explicaremos el viaje del Apolo 11
+
 
 #### Apolo 13-17
 Hitos por destacar
