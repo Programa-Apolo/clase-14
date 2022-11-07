@@ -1,8 +1,7 @@
 ![Portada](https://github.com/Programa-Apolo/clase-14/blob/main/img/apolo11.jpg?raw=true)
-# PROGRAMA APOLO: inicio a fin
+# Carrera espacial: El desafío de llevar un hombre a la luna
+ 
 
-
-Carrera espacial
 La carrera espacial fue una disputa entre Estados Unidos y la Unión Soviética por la conquista del espacio. Este conflicto duró aproximadamente desde el año 1955 hasta 1975. Supuso el esfuerzo paralelo de ambos países por explorar el espacio exterior con satélites artificiales y enviar humanos al espacio y a la superficie lunar.
 
 
