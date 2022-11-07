@@ -16,7 +16,7 @@ texto contexto histórico
 
 ### Misiones Apolo
 #### Apolo 1-10
->**Gráfico linea temporal=** Aqui explicaremos hasta donde llego cada mision antes del Apolo 11
+>**Gráfico linea temporal=** Aquí explicaremos hasta donde llego cada misión antes del Apolo 11
 
 
 #### Apolo 11
@@ -29,9 +29,9 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 **Hitos más importantes por destacar**
 - Apolo 13 (viaje fallido)
 ![Apolo 13](https://github.com/Programa-Apolo/clase-14/blob/main/img/Apolo%2013.jpeg?raw=true)
-- Apolo 15 ("auto)
+- Apolo 15 ("auto")
 ![Apolo 15](https://github.com/Programa-Apolo/clase-14/blob/main/img/idea%201.png?raw=true)
-- Apolo 17 (avances cientificos)
+- Apolo 17 (avances cientificos gracias a las extracciones de rocas)
 ![Apolo 17](https://github.com/Programa-Apolo/clase-14/blob/main/img/Piedras.jpeg?raw=true)
 
 ---
@@ -40,7 +40,7 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 ### La tripulación
 ![Tripulación](https://raw.githubusercontent.com/Programa-Apolo/clase-14/f8be0580cfa3e5bdf8ee7e0e9a6321806f7200e6/svg/Tripulacion_cantidad.svg)
 ![Perfiles](https://github.com/Programa-Apolo/clase-14/blob/main/img/perfiles.jpg?raw=true)
-texto 
+texto sobre como una gran parte de la tripulación participó en los programas anteriores de la NASA, así mismo como algunos de ellos viajaron en más de una misión Apolo
 
 
 ---
@@ -49,7 +49,7 @@ texto
 ### Fin del Apolo
 ![Apollo Soyuz](https://github.com/Programa-Apolo/clase-14/blob/main/img/soyuz.jpg?raw=true)
 
-texto fin carrera espacial
+texto fin del programa Apolo y próximamente de la carrera espacial contra la URSS
 
 
 ---
