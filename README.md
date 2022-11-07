@@ -1,4 +1,4 @@
-> imagen/ilustración espacio
+![Portada](https://github.com/Programa-Apolo/clase-14/blob/main/img/apolo11.jpg?raw=true)
 # PROGRAMA APOLO: inicio a fin
 
 
@@ -15,10 +15,19 @@ texto contexto histórico
 
 
 ### Misiones Apolo
->Gráfico linea temporal y ruta del viaje
+#### Apolo 1-10
+>Gráfico linea temporal
+Aqui explicaremos hasta donde llego cada mision antes del Apolo 11
 
-texto
+#### Apolo 11
+>Ruta del viaje
+Aquí explicaremos el viaje del Apolo 11
 
+#### Apolo 13-17
+Hitos por destacar
+
+![Apolo 15](https://github.com/Programa-Apolo/clase-14/blob/main/img/idea%201.png?raw=true)
+Aquí explicaremos lo que se destaca del apolo 15 (uso del "auto")
 
 ---
 
