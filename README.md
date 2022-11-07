@@ -35,9 +35,9 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 
 
 ### La tripulación
->Gráfico número de tripulantes e informaciónn extra sobre los más relevantes (los que más viajaron, tuvieron algún logro o sufrieron un accidente)
-
-texto
+![Tripulación](https://github.com/Programa-Apolo/clase-14/blob/main/img/cantidad.jpg?raw=true)
+![Perfiles](https://github.com/Programa-Apolo/clase-14/blob/main/img/perfiles.jpg?raw=true)
+texto 
 
 
 ---
