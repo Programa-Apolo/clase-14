@@ -38,7 +38,7 @@ Explicación del viaje del Apolo desde su despegue, alunizaje en la Luna y vuelt
 
 
 ### La tripulación
-![Tripulación](https://github.com/Programa-Apolo/clase-14/blob/main/img/cantidad.jpg?raw=true)
+![Tripulación](https://raw.githubusercontent.com/Programa-Apolo/clase-14/f8be0580cfa3e5bdf8ee7e0e9a6321806f7200e6/svg/Tripulacion_cantidad.svg)
 ![Perfiles](https://github.com/Programa-Apolo/clase-14/blob/main/img/perfiles.jpg?raw=true)
 texto 
 
