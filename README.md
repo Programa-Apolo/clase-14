@@ -52,3 +52,7 @@ texto fin carrera espacial
 ---
 
 texto final
+
+###Extra
+Empezamos a hacer una tabla con la  información de la tripulación para organizar cual dejar 
+https://raw.githubusercontent.com/Programa-Apolo/clase-14/main/img/avance%20para%20gr%C3%A1ficos.png
