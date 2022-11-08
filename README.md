@@ -31,7 +31,8 @@ Todas las fotografías mostradas en este README serán en realidad ilustraciones
 - Apolo 13 (viaje fallido)
 ![Apolo 13](https://github.com/Programa-Apolo/clase-14/blob/main/img/Apolo%2013.jpeg?raw=true)
 - Apolo 15 ("auto")
-![Apolo 15](https://github.com/Programa-Apolo/clase-14/blob/main/img/idea%201.png?raw=true)
+![Apolo 15_proporciones](https://raw.githubusercontent.com/Programa-Apolo/clase-14/5ef65aa44761b30f93764e798389a3199da55556/svg/proporcion%20rovin%202.svg)
+![Apolo 15_rovin](https://raw.githubusercontent.com/Programa-Apolo/clase-14/5ef65aa44761b30f93764e798389a3199da55556/svg/rover.svg)
 - Apolo 17 (avances cientificos gracias a las extracciones de rocas)
 ![Apolo 17](https://github.com/Programa-Apolo/clase-14/blob/main/img/Piedras.jpeg?raw=true)
 
